@@ -1,0 +1,31 @@
+1. Standardize all (ENGLISH)
+2. Button labelling (medical leave -admin)
+3. Register patient 
+	- No matric card 
+	- Manual 
+4. Queue number auto increment 
+	-buang limitation
+5. cosmetic (numbering chart)
+6. queue list auto refresh after treatment
+
+7.jquery page assignqno (update timevalue )
+	-refresh page
+8.timestamp convert 12 hrs to 24 hrs
+
+
+validation
+-registration
+-update details
+
+authentication
+-login
+-add new staff
+
+admin
+- tambah dashboard
+
+queue 
+-discharge (status) lepas treatment
+
+Dental record
+-timestamp
